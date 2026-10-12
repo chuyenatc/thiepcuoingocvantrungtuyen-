@@ -26,7 +26,7 @@ window.WEDDING_INFO = {
   ceremonyTime: "Vào lúc 10:00 chủ nhật",
   monthLabel: "Tháng 10",
   weddingDay: "25",
-  lunarDate: "(Tức ngày 15 tháng 9 âm Bính Ngọ)",
+  lunarDate: "(Tức ngày 16 tháng 9 âm Bính Ngọ)",
   venueName: "nhà riêng",
   venueAddress: "Số nhà 1, ngõ Thượng 5, xóm 6, thôn Tri Lễ, Xã Dân Hoà, Hà Nội",
   venueAddressDisplay: "Số nhà 1, ngõ Thượng 5, xóm 6, thôn Tri Lễ,\nXã Dân Hoà, Hà Nội",
